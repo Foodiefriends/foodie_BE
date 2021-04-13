@@ -1,0 +1,2 @@
+class FoodCircle < ApplicationRecord
+end
